@@ -1,0 +1,11 @@
+"use strict";
+let myNumberExOne = 42;
+let myStringExOne = "Hello, TypeScript";
+console.log("My Number Is:", myNumberExOne);
+console.log("My String Is:", myStringExOne);
+let myNumberExTwo;
+let myStringExTwo;
+myNumberExTwo = 42;
+myStringExTwo = "Hello, TypeScript";
+console.log("My Number Is:", myNumberExTwo);
+console.log("My String Is:", myStringExTwo);
