@@ -1,1 +1,18 @@
 
+Day 74 of 100-Days-Of-Code Challenge
+
+Debugging:
+
+Open tsconfig.json and enable "sourceMap": true.
+
+Recompile your code to generate the .map file.
+
+Add some logic in index.ts and set a breakpoint by clicking on a line number:
+
+Open the debug panel and create a launch.json file, selecting Node.js.
+In launch.json, add:
+Start debugging by clicking "Launch Program" or pressing F5.
+
+Use F10 to step over lines and watch variables change in the debug panel.
+
+Stop debugging when done.
