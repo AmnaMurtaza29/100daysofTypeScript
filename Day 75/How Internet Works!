@@ -1,0 +1,30 @@
+What is the Internet?
+
+A global network of computers connected to each other, communicating through standardized protocols.
+Data Movement on the Internet
+
+Information travels as bits through Ethernet cables, fiber optic cables, and wireless signals like radio waves.
+IP Addresses and DNS
+
+Protocols like IP and DNS direct information to the right computer across the Internet.
+Packets, Routing, and Reliability
+
+Information is broken into packets that travel via different routes to reach the destination, ensuring reliable delivery.
+HTTP and HTML
+
+HTTP is the protocol used for transferring webpages, which are coded in HTML, to your web browser.
+Encryption and Public Keys
+
+Cryptography, including SSL/TLS, secures Internet communication through encryption techniques.
+Cybersecurity and Crime
+
+Cybersecurity protects against crimes like hacking and fraud on the Internet.
+Wires, Cables, and Wi-Fi
+
+Data transfer mediums have different advantages and disadvantages.
+How Networks Talk
+
+Networks communicate using specific protocols to manage and transfer information efficiently.
+Learning More
+
+Further learning resources include guides and cartoons about DNS and how it works.
