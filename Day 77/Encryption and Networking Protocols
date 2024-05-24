@@ -1,0 +1,5 @@
+SSL (Secure Sockets Layer) and TLS (Transport Layer Security) are encryption protocols that keep online communication private and secure, like putting your message in a locked box before sending it.
+
+HTTPS (Hypertext Transfer Protocol Secure) is a combination of HTTP and SSL/TLS, adding a protective layer to web browsing, ensuring safer data exchange between your browser and the website.
+
+SSH (Secure Shell) is a secure network protocol that allows you to securely connect to remote computers over an unsecured network, making it like a secret tunnel for sending commands and accessing files securely.
