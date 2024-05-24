@@ -1,0 +1,15 @@
+Day-76 Task: Read and understand the following Visual Guide about DNS and DHCP. 
+
+
+
+DNS in One Picture 
+
+Here's what I learned reading this article:
+
+📚 Basic Understanding: DNS (Domain Name System) is important for developers to understand.
+
+📖 Definition: DNS acts like a phonebook, translating domain names into IP addresses.
+
+📱 Analogy: Just like using a contact's name to find their number in your phone, DNS uses domain names to find website IP addresses.
+
+🌐 Function: Browsers need IP addresses to open websites, which they obtain through DNS.
